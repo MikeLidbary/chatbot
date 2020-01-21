@@ -1,4 +1,4 @@
-# Build an interactive WhatsApp/SMS chatbot that gives realtime currency exchange rates and conversion 
+# Build a currency conversion SMS chatbot using Twilio Autopilot, CurrencyLayer API and  PHP 
 
 ## Introduction
 
