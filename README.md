@@ -1,4 +1,4 @@
-# Build a currency conversion SMS chatbot using Twilio Autopilot, CurrencyLayer API and  PHP 
+# Build a currency conversion SMS chatbot using Twilio Autopilot, Exchangerates API and  PHP 
 
 ## Introduction
 
@@ -10,20 +10,20 @@ What you need to follow the tutorial.
 
 ```
 - Twilio Account
-- Laravel
+- PHP development environment
 - Composer globally installed
+- Ngrok Globally installed
 ```
 
 ## Set up development environment for the exchange rate app
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-* Install Laravel
-* Install Twilio SDK for PHP
-* Setting up Twilio account and Twilio Whatsapp Sandbox
 
-## Creating our Application
+## Setup Twilio AUtopilot
+
+
+## Creating our Webhook
   * Create the backend for the exchange rate app
-	* Create Endpoints for the backend
-	* Connect the endpoints to Whatsapp Sandbox
+  * Create Endpoints for the backend
 
 ## Testing our App
 
